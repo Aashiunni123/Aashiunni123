@@ -8,4 +8,4 @@ My discord username is `Aashi#5599`
 
 ## 🎵 Now playing
 
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)]
+![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)
